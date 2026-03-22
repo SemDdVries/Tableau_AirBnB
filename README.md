@@ -10,7 +10,7 @@ The Tableau Dashboard is posted on Tableau public and can be found here: https:/
 As this dashboard looks different from the one on my system, a picture of the dashboard on my computer is shown below:
 <img width="1658" height="851" alt="image" src="https://github.com/user-attachments/assets/fa3cb7ae-8ae6-4019-9aaf-446ec20fe1cc" />
 
-## What does the data tell us?
+## What Does the Data Tell Us?
 Average Yearly Return per N Bedrooms
   - Shows total yearly revenue per listing (SUM(Price) / COUNT(Id)) by number of bedrooms
   - Clear upward trend: more bedrooms → higher yearly return
